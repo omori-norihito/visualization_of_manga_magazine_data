@@ -1,0 +1,1 @@
+# visualization_of_manga_magazine_data
